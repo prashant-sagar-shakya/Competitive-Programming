@@ -1,0 +1,6 @@
+.cph
+*.bin
+.vscode
+*.txt
+*.exe
+*__tests
